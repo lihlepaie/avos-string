@@ -5,6 +5,8 @@ h1{
 }
 body{
   background-image: url(scale.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
   width: 40px:
 }
 table {
